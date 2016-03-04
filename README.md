@@ -30,3 +30,20 @@
 <img src="http://7xq276.com2.z0.glb.qiniucdn.com/ss_android_2.png" width="200" height="350" />
 
 建议选上route为by pass lan & China，这样中国的流量和本地流量就不会经过ss服务器了
+
+###OS X篇
+推荐图形界面客户端ShadowsocksX [[百度云]](http://pan.baidu.com/s/1sktm6ol)
+
+配置同Windows篇类似，safari不需要再单独配置。
+
+默认本地代理127.0.0.1:1080。
+
+###iOS篇
+Shadowsocks [[App Store]](https://itunes.apple.com/tc/app/shadowsocks/id665729974?mt=8)
+
+更优雅的方案推荐Surge [[App Store]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637?ls=1&mt=8)
+
+PS: Shadowsocks和Surge均在中国商店下架，需要到国外商店购买。
+
+更多使用细节请自行Google。
+
