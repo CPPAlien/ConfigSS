@@ -39,11 +39,18 @@
 默认本地代理127.0.0.1:1080。
 
 ###iOS篇
+非越狱设备
+
 Shadowsocks [[App Store]](https://itunes.apple.com/tc/app/shadowsocks/id665729974?mt=8)
 
 更优雅的方案推荐Surge [[App Store]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637?ls=1&mt=8)
 
 PS: Shadowsocks和Surge均在中国商店下架，需要到国外商店购买。
+
+越狱设备
+
+Bigboss源搜索安装Shadowsocks。
+
 
 更多使用细节请自行Google。
 
