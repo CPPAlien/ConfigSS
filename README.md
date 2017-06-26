@@ -1,6 +1,6 @@
 # Shadowsocks各平台配置方法
 
-###Windows篇
+### Windows篇
 1，下载[安装包](http://7xq276.com2.z0.glb.qiniucdn.com/Shadowsocks-win-2.5.6.zip)
 
 2，解压包到某个合适目录，点击Shadowsocks.exe打开运行
@@ -18,7 +18,7 @@
 相信聪明的你一定知道，在浏览器哪里设置这个选项啦，如果不知道请提issue吧。
 
 
-###Android篇
+### Android篇
 1，下载[安装包](http://7xq276.com2.z0.glb.qiniucdn.com/shadowsocks-nightly-2.9.10.apk)
 
 2，安装成功后，点开Profiles添加一个新的ss服务器信息，然后点击右上角图标后，进行连接
@@ -31,14 +31,14 @@
 
 建议选上route为by pass lan & China，这样中国的流量和本地流量就不会经过ss服务器了
 
-###OS X篇
+### OS X篇
 推荐图形界面客户端ShadowsocksX [[百度云]](http://pan.baidu.com/s/1sktm6ol)
 
 配置同Windows篇类似，safari不需要再单独配置。
 
 默认本地代理127.0.0.1:1080。
 
-###iOS篇
+### iOS篇
 非越狱设备
 
 Shadowsocks [[App Store]](https://itunes.apple.com/tc/app/shadowsocks/id665729974?mt=8)
